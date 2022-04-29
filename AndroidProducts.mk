@@ -1,6 +1,6 @@
 #
 # Copyright (C) 2018-2019 The LineageOS Project
-# Copyright (C) 2019-2022 The derp X Project
+# Copyright (C) 2019-2022 The evolution X Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,9 +16,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_instantnoodlep.mk
+    $(LOCAL_DIR)/evolution_instantnoodlep.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_instantnoodlep-user \
-    derp_instantnoodlep-userdebug \
-    derp_instantnoodlep-eng
+    evolution_instantnoodlep-user \
+    evolution_instantnoodlep-userdebug \
+    evolution_instantnoodlep-eng
